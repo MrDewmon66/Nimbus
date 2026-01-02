@@ -1,9 +1,17 @@
 {
-  "name": "Nimbus",
+  "name": "nimbus",
   "version": "1.0.0",
-  "description": "An epic project management tool",
+  "description": "A new project management tool",
+  "homepage": "https://github.com/MrDewmon66/Nimbus#readme",
+  "bugs": {
+    "url": "https://github.com/MrDewmon66/Nimbus/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrDewmon66/Nimbus.git"
+  },
   "license": "ISC",
-  "author": "Dew",
+  "author": "MrDewmon66",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
