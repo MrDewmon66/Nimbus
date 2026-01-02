@@ -1,5 +1,6 @@
 {
   "name": "nimbus",
+  "private": "true",
   "version": "1.0.0",
   "description": "A new project management tool",
   "homepage": "https://github.com/MrDewmon66/Nimbus#readme",
@@ -12,9 +13,11 @@
   },
   "license": "ISC",
   "author": "MrDewmon66",
-  "type": "commonjs",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "turbo run dev",
+    "build": "turbo run build"
+  },
+  "devDependencies": {
+    "turbo": "^2.7.2"
   }
 }
