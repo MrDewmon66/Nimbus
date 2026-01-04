@@ -1,7 +1,7 @@
 function HomePage() {
     return (
         <>
-        <h1>Hello World</h1>
+        <h1 className="ml-10 text-4xl">Hello World</h1>
         </>
     );
 }

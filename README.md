@@ -1,3 +1,3 @@
 # Nimbus
 
-Nimbus is a project management tool.
+Nimbus is a planned project management tool.
